@@ -14,7 +14,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-phrase = "Do A Barrell Roll!"
 
 def any_phrase(phrase)
   puts phrase
